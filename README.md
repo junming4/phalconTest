@@ -9,3 +9,6 @@ $di->set(
           return $view;
       }
   );
+  
+ 2、http://phalcontest.io/index.php?_url=/signUp
+ 去访问连接？是否可以改进
